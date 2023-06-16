@@ -1,2 +1,0 @@
-Dijiturk Test Automation Project
- 
