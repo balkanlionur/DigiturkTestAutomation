@@ -1,2 +1,2 @@
-# DijiturkTestAutomation
+Dijiturk Test Automation Project
  
